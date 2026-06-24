@@ -141,11 +141,11 @@ Open `reports/PENTEST_REPORT.md` for the full findings report.
 
 ## 👤 Author
 
-**[Your Name]**  
-Graduate Applicant | Cybersecurity Researcher  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+**[Olayinka David]**  
+Security Enthusiast | Aspiring Cybersecurity Researcher  
+📧 urekayinka@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/olayinka-a-6901741b5/) | [GitHub](https://github.com/yeanka)
 
 ---
 
-*This project is part of my cybersecurity portfolio demonstrating applied security research skills for graduate program admission.*
+*This project is part of my cybersecurity portfolio demonstrating curiosity in security research skills*
